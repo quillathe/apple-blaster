@@ -19,5 +19,5 @@ sudo cpan Mozilla::CA
 #Wait 10 seconds
 sleep 10s
 
-#Install CA Module again so it goes to the right directory
+#Install CA Module again so it goes to the right directory - perl 15 director called initially doesn't seem to "work"
 sudo cpan Mozilla::CA
